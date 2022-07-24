@@ -1,0 +1,11 @@
+{
+  "description": "Pedro Lucas Souza Carneiro",
+  "repo": "https://github.com/DeamonPedro/profile.github.io",
+  "owner": {
+    "username": "DeamonPedro",
+    "email": "pedro.lucas.root@gmail.com"
+  },
+  "record": {
+    "CNAME": "profile.github.io"
+  }
+}
